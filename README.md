@@ -1,4 +1,4 @@
-# Template Bootstrap Project for `FIGMA` conversions
+# Template BS5 Project for `FIGMA` conversions
 
 Free Template styled with **Bootstrap** `v5.2.3` using best practices and simple tooling - **Used in projects**:
 
@@ -82,4 +82,4 @@ At this point, the new styles should be visible in the website.
 <br />
 
 --- 
-Core Bootstrap Project for `FIGMA` - Open-Source project crafted by [AppSeed](https://appseed.us/).
+Template BS5 Project for `FIGMA` conversions - Open-Source project crafted by [AppSeed](https://appseed.us/).
