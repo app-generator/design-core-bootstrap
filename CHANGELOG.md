@@ -4,3 +4,5 @@
 ### Changes
 
 - Stable Core
+- BS Version `v5.2.3`
+
