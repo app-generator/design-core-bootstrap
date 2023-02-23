@@ -1,17 +1,9 @@
-# Core Bootstrap Project for `FIGMA`
+# Template Bootstrap Project for `FIGMA` conversions
 
-Free Template styled with **Bootstrap** `v5.2.3` using a simple codebase and best practices.
+Free Template styled with **Bootstrap** `v5.2.3` using a simple codebase and best practices - Used in projects:
 
-- 👉 [DEMO HERE](#): `HTML DEMO`
-- 🛒 **[Buy Figma Project](#)**: `ONLY $19`, payment managed by `GUMROAD` 
-  - [See DEMO](#) - `FIGMA version`
-  - `Updates`: Lifetime
-  - `Number of Projects`: Unlimited
-- 🚀 Free [Support](https://appseed.us/support/) via Email & Discord
-
-<br />
-
-> IMAGE here
+- 👉 [Web Agency Design](https://github.com/app-generator/design-web-agency) - `free & open-source` project
+- 👉 [eCommerce Design](https://github.com/app-generator/design-ecommerce) - `free & open-source` project
 
 <br />
 
